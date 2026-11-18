@@ -6,3 +6,4 @@ SourceGit y Git Flow.
 - 1.0.0: versión inicial.
 
 Realizar cambios y commits.
+Error corregido
